@@ -1,0 +1,62 @@
+v 20110115 2
+C 40000 40000 0 0 0 title-bordered-A2.sym
+T 59700 41700 9 8 1 0 0 1 1
+Microcontroller I/O
+T 60000 41100 9 8 1 0 0 1 1
+Ground Station USB Dongle
+T 60100 40500 9 8 1 0 0 1 1
+Ian Glen <ian@ianglen.me>
+C 50600 46500 1 0 0 ATSAM3C1U_IO_B.sym
+{
+T 50600 46500 5 1 0 0 0 0 1
+device=ATSAM3C1U
+T 50600 46500 5 1 0 0 0 0 1
+footprint=LQFP100_14
+T 51000 51100 5 8 1 1 0 0 1
+refdes=U1
+}
+C 52700 49800 1 0 0 io.sym
+{
+T 52900 50400 5 10 0 0 0 0 1
+device=none
+T 52900 49900 5 8 1 1 0 1 1
+value=STATUS_LED
+T 53600 50000 5 10 0 0 0 0 1
+net=STATUS_LED:1
+}
+C 52700 49200 1 0 0 io.sym
+{
+T 52900 49800 5 10 0 0 0 0 1
+device=none
+T 52900 49300 5 8 1 1 0 1 1
+value=CE 1
+T 53600 49400 5 10 0 0 0 0 1
+net=CE_1:1
+}
+C 52700 48900 1 0 0 io.sym
+{
+T 52900 49500 5 10 0 0 0 0 1
+device=none
+T 52900 49000 5 8 1 1 0 1 1
+value=CE 2
+T 53600 49100 5 10 0 0 0 0 1
+net=CE_2:1
+}
+C 52700 47700 1 0 0 io.sym
+{
+T 52900 48300 5 10 0 0 0 0 1
+device=none
+T 52900 47800 5 8 1 1 0 1 1
+value=CE 3
+T 53600 47900 5 10 0 0 0 0 1
+net=CE_3:1
+}
+C 52700 47100 1 0 0 io.sym
+{
+T 52900 47700 5 10 0 0 0 0 1
+device=none
+T 52900 47200 5 8 1 1 0 1 1
+value=CE 4
+T 53600 47300 5 10 0 0 0 0 1
+net=CE_4:1
+}

@@ -1,0 +1,2 @@
+schematics "USB Dongle - Power.sch" "USB Dongle - Microcontroller Power.sch" "USB Dongle - Oscillators.sch" "USB Dongle - Microcontroller IO.sch" "USB Dongle - Headers.sch" "USB Dongle - Peripheral Headers.sch" "USB Dongle - LEDs.sch"
+output-name usb-dongle
