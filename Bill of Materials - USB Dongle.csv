@@ -34,9 +34,9 @@ Crystals,,,,,
 1,Y2,12MHz crystal,http://www.mouser.com/ProductDetail/ABRACON/ABM8G-12000MHZ-B4Y-T/?qs=sGAEpiMZZMsBj6bBr9Q9aWUu9Vmt5DeoLDgUHWIxVys%3d,$1.16,$1.16
 ,,,,,
 Headers,,,,,
-1,H1,5x2 0.1" breakaway header,http://www.digikey.com/short/7370j,$1.82,$1.82
-4,H4-H7,4x2 0.1" breakaway header,,,
-2,H8-H9,4x1 0.1" breakaway header,,,
+1,H1,5x2 0.1 inch breakaway header,http://www.digikey.com/short/7370j,$1.82,$1.82
+4,H4-H7,4x2 0.1 inch breakaway header,,,
+2,H8-H9,4x1 0.1 inch breakaway header,,,
 ,,,,,
 Misc,,,,,
 1,USB1,USB Mini AB,http://www.mouser.com/ProductDetail/Kobiconn/154-15410-E/?qs=sGAEpiMZZMulM8LPOQ%252byk3k%252boUcIOtDGtZH5ucusuWI%3d,$0.51,$0.51
