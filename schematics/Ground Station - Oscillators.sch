@@ -1,10 +1,10 @@
 v 20110115 2
 C 40000 40000 0 0 0 title-bordered-A2.sym
-T 59700 41700 9 8 1 0 0 1 1
+T 59700 41700 9 10 1 0 0 1 1
 Microcontroller Oscillators
-T 60000 41100 9 8 1 0 0 1 1
-Ground Station USB Dongle
-T 60100 40500 9 8 1 0 0 1 1
+T 60000 41100 9 10 1 0 0 1 1
+Ground Station
+T 60100 40500 9 10 1 0 0 1 1
 Ian Glen <ian@ianglen.me>
 C 52900 49200 1 0 0 ATSAM3C1U_Oscillators.sym
 {

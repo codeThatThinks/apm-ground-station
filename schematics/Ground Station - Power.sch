@@ -3,7 +3,7 @@ C 40000 40000 0 0 0 title-bordered-A2.sym
 T 59700 41700 9 10 1 0 0 1 1
 Power
 T 60000 41100 9 10 1 0 0 1 1
-Ground Station USB Dongle
+Ground Station
 T 60100 40500 9 10 1 0 0 1 1
 Ian Glen <ian@ianglen.me>
 C 48500 53100 1 0 0 power.sym
