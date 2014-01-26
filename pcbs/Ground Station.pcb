@@ -5,8 +5,8 @@ FileVersion[20070407]
 
 PCB["Ground Station" 275591 275591]
 
-Grid[393.7 0 0 0]
-Cursor[0 0 0.000000]
+Grid[393.0 0 0 0]
+Cursor[0 11397 0.000000]
 PolyArea[200000000.000000]
 Thermal[0.500000]
 DRC[1000 1000 1000 1000 1500 1000]
@@ -2227,8 +2227,6 @@ Layer(4 "silk")
 	Line[29147 227231 109069 227231 1000 3000 "clearline"]
 	Line[29147 263058 29147 227231 1000 3000 "clearline"]
 	Line[29147 263058 109069 263058 1000 3000 "clearline"]
-	Text[31488 7872 0 100 "Ground Station for Multirotors" "clearline"]
-	Text[120048 7872 0 100 "v2.0" "clearline"]
 	Text[95984 264173 0 100 "JTAG" "clearline"]
 	Text[233268 263780 0 100 "RF 3" "clearline"]
 	Text[166339 263780 0 100 "RF 4" "clearline"]
@@ -2238,6 +2236,8 @@ Layer(4 "silk")
 	Text[263622 106811 1 100 "RF 1" "clearline"]
 	Text[142126 26378 0 100 "STATUS" "clearline"]
 	Text[144882 34646 0 100 "POWER" "clearline"]
+	Text[33012 7467 0 110 "Ground Station for Multirotors" "clearline"]
+	Text[132441 7467 0 110 "v2.1" "clearline"]
 	Polygon("clearpoly")
 	(
 		[246375 14682] [243527 14150] [243505 14144] [243359 14025] [243353 14008] 
