@@ -1,0 +1,101 @@
+Pin #,	Pin Name,	Connected To
+1,		VDDANA,			+3.3v
+2,		ADVREF,			GND
+3,		GNDANA,			GND
+4,		AD12BVREF,		GND
+5,		,
+6,		,
+7,		,
+8,		,
+9,		VDDCORE,		GND
+10,		MISO,			RF Headers
+11,		MOSI,			RF Headers
+12,		SPCK,			RF Headers
+13,		MPCS0,			RF Header 1
+14,		,
+15,		,
+16,		PB15,			Status LED
+17,		,
+18,		NPCS3,			RF Header 4
+19,		,
+20,		,
+21,		,
+22,		VDDIO,			+3.3v
+23,		,
+24,		,
+25,		,
+26,		NPCS1,			RF Header 2
+27,		NPCS2,			RF Header 3
+28,		,
+29,		,
+30,		,
+31,		,
+32,		,
+33,		,
+34,		VDDCORE,		GND
+35,		GND,			GND
+36,		VDDIO,			+3.3v
+37,		,
+38,		TWD0,			I2C Header
+39,		TWCK0,			I2C Header
+40,		URXD,			UART Header
+41,		UTXD,			UART Header
+42,		FWUP,			GND
+43,		ERASE,			GND
+44,		TST,			GND
+45,		VDDBU,			+3.3v
+46,		GNDBU,			GND
+47,		NRSTB,			JTAG Header
+48,		JTAGSEL,		GND
+49,		XOUT32,			32.768kHz Crystal
+50,		XIN32,			32.768kHz Crystal
+51,		TDI,			JTAG Header
+52,		VDDOUT,			GND
+53,		VDDIN,			+3.3v
+54,		TDO/TRACESWO,	JTAG Header
+55,		TMS/SWDIO,		JTAG Header
+56,		TCK/SWCLK,		JTAG Header
+57,		,
+58,		PB24,			RF Header 4
+59,		VDDCORE,		GND
+60,		VDDIO,			+3.3v
+61,		GND,			GND
+62,		,
+63,		PB22,			RF Header 3
+64,		,
+65,		,
+66,		,
+67,		PB18,			RF Header 2
+68,		PB17,			RF Header 1
+69,		,
+70,		,
+71,		,
+72,		GNDPLL,			GND
+73,		VDDPLL,			GND
+74,		XOUT,			12MHz Crystal
+75,		XIN,			12MHz Crystal
+76,		DHSDP,			USB D+
+77,		DHSDM,			USB D-
+78,		VBG,			GND
+79,		VDDUTMI,		+3.3v
+80,		DFSDM,			USB D-
+81,		DFSDP,			USB D+
+82,		GNDUTMI,		GND
+83,		VDDCORE,		GND
+84,		,
+85,		,
+86,		,
+87,		VDDCORE,		GND
+88,		VDDIO,			+3.3v
+89,		GND,			GND
+90,		,
+91,		,
+92,		,
+93,		,
+94,		,
+95,		,
+96,		,
+97,		,
+98,		,
+99,		,
+100,	,
