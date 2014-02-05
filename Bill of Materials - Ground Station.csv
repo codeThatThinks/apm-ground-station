@@ -1,44 +1,44 @@
-Quantity,References,Item,URL,Unit Price,Price
-ICs,,,,,
-1,U1,ATSAM3U1CB-AU,http://www.digikey.com/short/73c7b,$4.87,$4.87
-1,U2,LD1117S33TR,http://www.digikey.com/short/73c3h,$0.54,$0.54
-,,,,,
-Inductors,,,,,
-2,L1-L2,10uH/100mA inductor,http://www.digikey.com/short/73c4c,$0.17,$0.34
-,,,,,
-Capacitors,,,,,
-15,C1 C6 C8-C9 C11-C20 C29,100nF 0805 capacitor,http://www.digikey.com/short/73tj5,$0.031,$0.47
-1,C2,10uF 0805 capacitor,http://www.digikey.com/short/73t4f,$0.16,$0.16
-2,C3-C4,10nF 0805 capacitor,http://www.digikey.com/short/73th3,$0.10,$0.20
-4,C5 C7 C10 C21,4.7uF 0805 capacitor,http://www.digikey.com/short/73t9z,$0.10,$0.40
-1,C22,10pF 0805 capacitor,http://www.digikey.com/short/73tb3,$0.10,$0.10
-2,C23-C24,6pF 0805 capacitor,http://www.digikey.com/short/73t5v,$0.21,$0.42
-2,C25-C26,1pF 0805 capacitor,http://www.digikey.com/short/73jcj,$0.11,$0.22
-,,,,,
-Diodes,,,,,
-1,LED_PWR,0805 blue led,http://www.mouser.com/ProductDetail/Kingbright/APT2012QBC-D/?qs=%2fha2pyFaduhONeBEgCNTfHqMYtEg2aLGbv4o87WB6Ng2DKn36WMKpg%3d%3d,$0.43,$0.43
-1,LED_STATUS,0805 orange led,http://www.mouser.com/ProductDetail/Kingbright/APT2012SECK/?qs=sGAEpiMZZMseGfSY3csMkeytxqHAv00AzaxXZm2Jq0I%3d,$0.17,$0.17
-,,,,,
-Resistors,,,,,
-4,R1-R4,1R 0805 resistor,http://www.digikey.com/short/737v5,$0.04,$0.16
-1,R5,6R8 0805 resistor,http://www.digikey.com/short/73711,$0.10,$0.10
-4,R6-R9,100K 0805 resistor,http://www.digikey.com/short/73tc2,$0.04,$0.16
-2,R10-R11,39R 0805 resistor,http://www.digikey.com/short/73t7j,$0.04,$0.08
-1,R15,60R4 0805 resistor,http://www.digikey.com/short/73t8h,$0.04,$0.04
-,,,,,
-Switches,,,,,
-2,PRGM ERASE,momentary push button,http://www.digikey.com/short/73cj0,$0.35,$0.70
-,,,,,
-Crystals,,,,,
-1,Y1,32.768KHz crystal,http://www.mouser.com/ProductDetail/ABRACON/ABS10-32768KHZ-T/?qs=%2fha2pyFaduhAWBONbS9KFvZ7PtE%2fMTHrwncdNs0C3OfB4lW6zowfzg%3d%3d,$1.02,$1.02
-1,Y2,12MHz crystal,http://www.mouser.com/ProductDetail/ABRACON/ABM8G-12000MHZ-B4Y-T/?qs=sGAEpiMZZMsBj6bBr9Q9aWUu9Vmt5DeoLDgUHWIxVys%3d,$1.16,$1.16
-,,,,,
-Headers,,,,,
-1,H1,5x2 0.1 inch breakaway header,http://www.digikey.com/short/7370j,$1.82,$1.82
-4,H4-H7,4x2 0.1 inch breakaway header,,,
-2,H8-H9,4x1 0.1 inch breakaway header,,,
-,,,,,
-Misc,,,,,
-1,USB1,USB Mini AB,http://www.mouser.com/ProductDetail/Kobiconn/154-15410-E/?qs=sGAEpiMZZMulM8LPOQ%252byk3k%252boUcIOtDGtZH5ucusuWI%3d,$0.51,$0.51
-,,,,,
-,,,,Total Price:,$14.07
+Quantity,	References,					Item,							URL,									Unit Price,		Price
+ICs,		,							,								,										,
+1,			U1,							ATSAM3U1CB-AU,					http://www.digikey.com/short/73c7b,		$4.87,			$4.87
+1,			U2,							LD1117S33TR,					http://www.digikey.com/short/73c3h,		$0.54,			$0.54
+,			,							,								,										,
+Inductors,	,							,								,										,
+2,			L1-L2,						10uH/100mA inductor,			http://www.digikey.com/short/73c4c,		$0.17,			$0.34
+,			,							,								,										,
+Capacitors,	,							,								,										,
+15,			C1 C6 C8-C9 C11-C20 C29,	100nF 0805 capacitor,			http://www.digikey.com/short/73tj5,		$0.031,			$0.47
+1,			C2,							10uF 0805 capacitor,			http://www.digikey.com/short/73t4f,		$0.16,			$0.16
+2,			C3-C4,						10nF 0805 capacitor,			http://www.digikey.com/short/73th3,		$0.10,			$0.20
+4,			C5 C7 C10 C21,				4.7uF 0805 capacitor,			http://www.digikey.com/short/73t9z,		$0.10,			$0.40
+1,			C22,						10pF 0805 capacitor,			http://www.digikey.com/short/73tb3,		$0.10,			$0.10
+2,			C23-C24,					6pF 0805 capacitor,				http://www.digikey.com/short/73t5v,		$0.21,			$0.42
+2,			C25-C26,					1pF 0805 capacitor,				http://www.digikey.com/short/73jcj,		$0.11,			$0.22
+,			,							,								,										,
+Diodes,		,							,								,										,
+1,			LED_PWR,					0805 blue led,					http://www.digikey.com/short/qr0q0,		$0.51,			$0.51
+1,			LED_STATUS,					0805 orange led,				http://www.digikey.com/short/qw71z,		$0.20,			$0.20
+,			,							,								,										,
+Resistors,	,							,								,										,
+4,			R1-R4,						1R 0805 resistor,				http://www.digikey.com/short/737v5,		$0.04,			$0.16
+1,			R5,							6R8 0805 resistor,				http://www.digikey.com/short/73711,		$0.10,			$0.10
+4,			R6-R9,						100K 0805 resistor,				http://www.digikey.com/short/73tc2,		$0.04,			$0.16
+2,			R10-R11,					39R 0805 resistor,				http://www.digikey.com/short/73t7j,		$0.04,			$0.08
+1,			R15,						60R4 0805 resistor,				http://www.digikey.com/short/73t8h,		$0.04,			$0.04
+,			,							,								,										,
+Switches,	,							,								,										,
+2,			PRGM ERASE,					momentary push button,			http://www.digikey.com/short/73cj0,		$0.35,			$0.70
+,			,							,								,										,
+Crystals,	,							,								,										,
+1,			Y1,							32.768KHz crystal,				http://www.digikey.com/short/qr0hn,		$0.82,			$0.82
+1,			Y2,							12MHz crystal,					http://www.digikey.com/short/qr09t,		$0.90,			$0.90
+,			,							,								,										,
+Headers,	,							,								,										,
+1,			H1,							5x2 0.1 inch breakaway header,	http://www.digikey.com/short/7370j,		$1.82,			$1.82
+4,			H4-H7,						4x2 0.1 inch breakaway header,	,										,
+2,			H8-H9,						4x1 0.1 inch breakaway header,	,										,
+,			,							,								,										,
+Misc,		,							,								,										,
+1,			USB1,						Mini USB AB socket,				http://www.digikey.com/short/qr0rz,		$2.92,			$2.92
+,			,							,								,										,
+,			,							,								,										Total Price:,	$14.07
