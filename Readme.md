@@ -2,6 +2,8 @@
 
 A linux and joystick setup acting as a ground station for multirotors running APM.
 
+![Ground Station PCB](pcbs/Ground%20Station.png)
+
 ## License
 
 The MIT License (MIT)
